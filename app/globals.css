@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-navy: #020B18;
+  --color-brand-navy-light: #07172B;
+  --color-brand-card: #10233D;
+  --color-brand-gold: #FFD24A;
+  --color-brand-gold-dark: #D9A928;
+  --color-brand-green: #00C853;
+  --color-brand-green-hover: #00A844;
+  --color-brand-red: #D32F2F;
+}
+
+/* Base styles for smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

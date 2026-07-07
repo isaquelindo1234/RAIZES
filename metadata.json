@@ -1,0 +1,8 @@
+{
+  "name": "Protocolo Raíces Intocables",
+  "description": "Landing page de alta conversão para o produto digital cristão Protocolo Raíces Intocables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
